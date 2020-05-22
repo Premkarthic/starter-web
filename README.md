@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work Initial Commit Repo
+This repository is for showing how Git and GitHub work Local Commit
 
 ## Purpose
 
