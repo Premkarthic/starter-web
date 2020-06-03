@@ -7,3 +7,5 @@ This repository is for showing how Git and GitHub work Local Commit Local Repo
 Sample website with plenty of files for demos
 
 ###cOPYRIGHT
+
+dIRECT CHANGE ON MASTER.
